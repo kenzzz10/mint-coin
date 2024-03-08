@@ -1,6 +1,6 @@
 {
   "name": "mint-coin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenzzz10/mint-coin.git"
+    "url": "https://github.com/kenzzz10/mint-coin.git"
   },
   "keywords": [],
   "author": "",
@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@aptos-labs/ts-sdk": "^1.9.0",
+    "balance-apt": "^1.0.0",
     "dotenv": "^16.4.5"
   }
 }
